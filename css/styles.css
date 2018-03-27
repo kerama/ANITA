@@ -1,3 +1,61 @@
-.background{
-   :url("../img/assets/backgrounds/landing.jpg");
+.utra{
+  color:white;
+}
+.landing{
+  background-image: url(../img/assets/backgrounds/landing.jpg);
+  background-size: cover;
+  height: 636px;
+  font-size: 25px;
+}
+.logo{
+text-align: center;
+}
+.panels{
+  padding-top: 0px;
+}
+.break{
+  float: right;
+  padding-top: 0px;
+}
+.asset{
+  float: left;
+}
+.fast{
+  float: right;
+}
+.basic{
+  background-image: url(../img/assets/backgrounds/foodsBg.jpg);
+  background-size: cover;
+  height:400px;
+  }
+.bottom{
+  background-color:white;
+  background-size: cover;
+  height:100px;
+}
+.top{
+  background-color: white;
+  background-size: cover;
+  height:100px;
+}
+.sub{
+  background-image:url(../img/assets/backgrounds/subscribe.jpg);
+  background-size: cover;
+  height: 300px;
+}
+.footer{
+  background-color:#f46c36;
+  height: 200px;
+text-align: center;
+padding:190px;
+font-size: 20px;
+}
+.btn{
+  font-size: 30px;
+}
+.customers{
+  text-align: center;
+}
+.container{
+  padding:00px;
 }
